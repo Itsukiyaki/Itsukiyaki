@@ -23,7 +23,7 @@ To build on this interest, I completed the full-time Data Science Bootcamp at Ha
 
 ---
 ### :mortar_board: Education & Training
-- Hacktiv8 Full Time Data Science Program
+- Hacktiv8 Full Time Data Science Program  
 Final Grade: 81.06%
 
 <!---
