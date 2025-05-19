@@ -18,7 +18,7 @@ To build on this interest, I completed the full-time Data Science Bootcamp at Ha
 - Programming: Python
 - Data Analysis & Visualization: Pandas, Seaborn, Matplotlib, Tableau, Kibana
 - Databases: PostgreSQL, MongoDB
-- Machine Learning & AI: Supervised & Unsupervised Learning, Deep Learning, Computer Vision
+- Machine Learning: Supervised & Unsupervised Learning, Deep Learning, Computer Vision
 - Other Tools: Feature Engineering, ETL Development, Real-Time Data Pipelines, Data Wrangling, Docker
 
 ---
