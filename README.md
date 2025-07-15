@@ -9,7 +9,6 @@ To build on this interest, I completed the full-time Data Science Bootcamp at Ha
 ### 📫 Contact
 ---
 🔗 [Linkedin](https://www.linkedin.com/in/eldi-muhamad-s-15a605213/)  
-📧 eldimuhamads@gmail.com  
 
 ---
 
